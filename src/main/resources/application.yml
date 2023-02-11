@@ -1,0 +1,9 @@
+tenants: t1, t2
+
+t1:
+  a: 1
+  b: value1
+
+t2:
+  a: 2
+  b: value2
